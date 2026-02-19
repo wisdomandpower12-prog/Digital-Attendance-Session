@@ -1,0 +1,13 @@
+Course: bcp203
+Date: 2026_10_02
+Start Time: 9:00
+Duration: 60 mins
+
+kelvin,0232,Present
+daniel,23344,Present
+kelvin,123,Present
+
+Summary:
+Present: 3
+Absent: 0
+Late: 0
